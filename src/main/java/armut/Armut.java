@@ -41,7 +41,8 @@ public class Armut {
                 System.out.println("---"+l/2);
                 break;
             }
-        }
+        }//V2
+        System.out.println("versiyon 2 kodalrım");
 
     }
 }
