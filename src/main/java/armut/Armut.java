@@ -47,6 +47,7 @@ public class Armut {
         // v4 çalışmalar
         // v5 çalışmalar
         // v6 uhfusjffafafadasd
+        //v7
 
     }
 }
