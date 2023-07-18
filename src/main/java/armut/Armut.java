@@ -45,7 +45,8 @@ public class Armut {
         System.out.println("versiyon 2 kodalrım");
         System.out.println("V3 kodları");
         // v4 çalışmalar
-        // v5 çalışmalar 
+        // v5 çalışmalar
+        // v6 uhfusjff
 
     }
 }
